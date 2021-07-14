@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="164.53009mm"
+   height="149.4214mm"
+   viewBox="0 0 164.53009 149.4214"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/gerardo/Documentos/Cosas ENES/Ecolog-cuant/logo.png"
+   inkscape:export-xdpi="9.8593636"
+   inkscape:export-ydpi="9.8593636">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="290.91596"
+     inkscape:cy="-37.631601"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.484139,-45.523191)">
+    <path
+       sodipodi:type="spiral"
+       style="fill:#82f382;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path833"
+       sodipodi:cx="96.193161"
+       sodipodi:cy="127.78699"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="91.195732"
+       sodipodi:argument="-18.09358"
+       sodipodi:t0="0"
+       d="m 96.193161,127.78699 c 3.326897,3.13666 -2.586792,6.03211 -5.213348,5.52952 -7.117804,-1.36199 -8.521188,-10.38636 -5.845694,-15.95622 4.785832,-9.96316 17.929791,-11.50068 26.699081,-6.16187 12.86929,7.83493 14.56488,25.57426 6.47804,37.44196 -10.77848,15.81777 -33.254409,17.66495 -48.184817,6.79421 -18.788395,-13.67971 -20.783536,-40.95154 -7.110387,-58.927689 16.560016,-21.771527 48.658214,-23.91283 69.670554,-7.426559 24.76232,19.428498 27.04885,56.370838 7.74274,80.413428 -22.28968,27.75811 -64.087446,30.18935 -91.156298,8.0589 C 18.515682,152.40665 15.940035,105.74584 40.897953,75.653511 68.896965,41.894466 120.42622,39.174592 153.53999,66.962258 c 36.76255,30.849577 39.62654,87.251222 9.00742,123.384902" />
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+---
+title: "Sobre este sitio"
+description: |
+  Aquí encontrarás información relacionada con la investigación que hacemos
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

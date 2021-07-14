@@ -1,0 +1,38 @@
+name: "gerardommc.github.io"
+title: "Gerardo Martín"
+description: |
+  Ecologia-cuantitativa
+output_dir: "docs"
+navbar:
+  logo:
+    image: logo.png
+  right:
+    - text: "Hogar"
+      href: index.html
+    - text: "Acerca"
+      href: about.html
+    - text: "Grupo de trabajo"
+      menu:
+        - text: "Activos"
+          href: int_activos.html
+        - text: "Históricos"
+          href: int_historicos.html
+    - text: "Investigación"
+      menu:
+        - text: "Colaboraciones"
+          href: colabs.html
+        - text: "Publicaciones"
+          href: publicaciones.html
+        - text: "Proyectos"
+          href: proeyctos.html
+    - text: "Docencia"
+      menu:
+        - text: "Cursos de licenciatura"
+          href: cursos_lic.html
+        - text: "Cursos de posgrado"
+          href: cursos_posg.html
+        - text: "Recursos académicos"
+          href: recursos_acad.html
+    - icon: fab fa-github
+      href: https://github.com/gerardommc
+output: distill::distill_article
