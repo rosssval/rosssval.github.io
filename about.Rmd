@@ -1,7 +1,7 @@
 ---
 title: "Sobre este sitio"
 description: |
-  Aquí encontrarás información relacionada con la investigación que hacemos
+  Sobre el sitio web
 ---
 
 ```{r setup, include=FALSE}

@@ -1,9 +1,0 @@
----
-title: "Publicaciones"
-description: "Artículos científicos publicados por miembros y colaboradores"
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
