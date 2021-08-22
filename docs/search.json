@@ -1,25 +1,9 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "Sobre este sitio",
-      "description": "Sobre el sitio web",
-      "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-31T18:01:48-05:00"
-    },
-    {
-      "path": "index.html",
-      "title": "Arañas y Marañas",
-      "description": "¡Bienvenido vistante!\n",
-      "author": [],
-      "contents": "\r\nSitio de arañas y maranas.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-31T18:01:49-05:00"
-    },
-    {
-      "path": "patrones.html",
-      "title": "Patrones",
-      "description": "La loteria\n",
+      "path": "34_Nopal.html",
+      "title": "39. El nopal",
+      "description": "La loteria mexicana amigurumi\n",
       "author": [
         {
           "name": "Rosaura Valdez",
@@ -27,14 +11,44 @@
         }
       ],
       "date": "`r Sys.Date()`",
-      "contents": "\r\nLotería\r\nEl nopal\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-31T18:01:50-05:00"
+      "contents": "\r\nCuando se tira esta carta, se canta algo así como: “Al nopal lo van a ver nomás cuando tiene tunas”, o, “El auxilio de San Luis que le llaman el nopal” No tengo idea de que signifique este último, ni de a quién se le ocurrieron estas cosas pero si se el porqué yo elegí a El Nopal como el primer amigurumi para comenzar esta aventura. Son muchas razones pero la principal: ¡Me encanta comer nopalitos! De hecho, mi comida favorita en el mundo mundial lleva nopales: “La carne de puerco con nopalitos de mi mamacita”. Así es, como alimento, el nopal es muy parte de la gastronomía mexicana, desde la penca y por supuesto, ¡las tunas!. Cuando le pregunto a mis sobrin@s ¿cuál es su fruta favorita? , uno inmediatamente dice: ¡tunas!…otra dice que los tejocotes , pero esa es otra historia. Entonces, quería hacer algo muy mexicano y por eso también comienzo con el nopal, que hasta en nuestra bandera esta y es simbolo nacional y toda la cosa, pero porque además viste a tantos hermosos paisajes en todo el país, incluyendo al pedacito de tierra que me vió nacer.También simpre escojo una carta que tenga el nopal cuando juego a la loteria así que si es un favorito. Por esto y mas, es mi carta No.1 de esta aventura. Hablando de tejido y amigurumis, la verdad hay cientos, miles de patrones (instrucciones) para hacer amigurumis de cactus allá afuera, pero nopales, lo que se dice nopales (pues no les dicen nopales xq casi todo mundo solo les dice cactus así en general, pero no entremos en más detalles)…casi no hay. Así que espero que disfruten tejiendo este nopal y se sumen a esta aventura de tejer los 54 personajes, que probablemente tomará un tiempo, pero, como un majestuoso nopal que pacientemente acumula el agua en sus carnosas pencas para poder crecer bracito a bracito cubriendose de espinas protectoras para poder llegar a ese momento en que por fin podrá dar todas esas hermosas flores que darán origen a la deliciosura de frutos que son las tunas y así poder esparcir las semillas (o alguno que otro bracito) y poder cobijar algún otro pedazo de tierra…¡así ustedes! Tomen mucha agua y tenganme paciencia (solo esta parte era para la analogía, no se cubran de espinas, ni suelten los bracitos ni nada de lo demás). Y si ya leyeron hasta acá y quisieran seguir viendo un poco de lo especial es el nopal, les dejo algunas fotitos e historias, incluyendo la deliciosa receta de carne con nopalitos de mi mamá x si a alguien se le antojó.\r\nEl nopal\r\n\r\n\r\n",
+      "last_modified": "2021-08-22T17:36:00-05:00"
+    },
+    {
+      "path": "about.html",
+      "title": "Sobre este sitio",
+      "description": "Sobre el sitio web",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-22T17:36:01-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Arañas y Marañas",
+      "description": "¡Bienvenido vistante!\n",
+      "author": [],
+      "contents": "\r\nSitio de arañas y maranas.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-22T17:36:02-05:00"
+    },
+    {
+      "path": "Loteria.html",
+      "title": "La loteria mexicana amigurumi",
+      "description": "Algo\n",
+      "author": [
+        {
+          "name": "Rosaura Valdez",
+          "url": "https://aranasymaranas.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\n\r\nContents\r\nEspañol\r\nEnglish\r\nLos Patrones/The patterns:\r\n\r\n\r\nEspañol\r\nCORRE Y SE VA…. ¡Bienvenid@s y muchas gracias por estar aquí! Te cuento un poco de dónde salió esto: llevo ya muchos muchos años tejiendo gracias a mi mamacita hermosa que me enseño desde que era chiquita. Hace algunos años también empecé a escribir las instrucciones de las cosas que hago que son mis propias creaciones, sobre todo, muñecos de tejido que ahora se conocen en todas partes como amigurumis.\r\nDesde hace tiempo quería hacer una serie de amigurumis para compartir con todas las arañas que existen en el mundo y que les guste esto de hacer marañas de estambre. También quería que fuera algo muy mexicano y divertido, así que pensé: ¡LOTERIA!\r\nPara quién no la conozca, la LOTERÍA MEXICANA es un juego de mesa muy querido y muy jugado en muchas casas de México (o al menos en la mía aún se juega).\r\nEntonces, así comenzó mi reto: ¡Hacer los 54 personajes de la Lotería Mexicana como Amigurumi! Y la mejor parte, compartirlo contigo, así que si tú también quieres entrarle al reto de hacer estas marañas, corre por tu gancho favorito porque ahora si, corre y se va con…\r\nEnglish\r\nLos Patrones/The patterns:\r\nCorre y se va con:\r\nEl nopal\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-22T17:36:03-05:00"
     },
     {
       "path": "README.html",
       "author": [],
       "contents": "Aranas y maranas",
-      "last_modified": "2021-07-31T18:01:50-05:00"
+      "last_modified": "2021-08-22T17:36:03-05:00"
     }
   ],
   "collections": []

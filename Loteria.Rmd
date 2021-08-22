@@ -1,0 +1,42 @@
+---
+title: "La loteria mexicana amigurumi"
+description: |
+  Algo
+author:
+  - name: Rosaura Valdez 
+    url: https://aranasymaranas.com
+date: "`r Sys.Date()`"
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Español
+
+CORRE Y SE VA....
+  ¡Bienvenid@s y muchas gracias por estar aquí!
+  Te cuento un poco de dónde salió esto: llevo ya muchos muchos años tejiendo gracias a mi mamacita hermosa que me enseño desde que era chiquita. Hace algunos años también empecé a escribir las instrucciones de las cosas que hago que son mis propias creaciones, sobre todo, muñecos de tejido que ahora se conocen en todas partes como amigurumis.
+  
+  Desde hace tiempo quería hacer una serie de amigurumis para compartir con todas las arañas que existen en el mundo y que les guste esto de hacer marañas de estambre. También quería que fuera algo muy mexicano y divertido, así que pensé: ¡LOTERIA!
+  
+  Para quién no la conozca, la LOTERÍA MEXICANA es un juego de mesa muy querido y muy jugado en muchas casas de México (o al menos en la mía aún se juega).
+  
+  Entonces, así comenzó mi reto: ¡Hacer los 54 personajes de la Lotería Mexicana como Amigurumi! Y la mejor parte, compartirlo contigo, así que si tú también quieres entrarle al reto de hacer estas marañas, corre por tu gancho favorito porque ahora si, corre y se va con...
+
+# English
+
+# Los Patrones/The patterns:
+
+Corre y se va con:
+
+1. [El nopal](34_Nopal.html)
+
+
+
+
+
